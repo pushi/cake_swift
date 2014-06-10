@@ -20,7 +20,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         self.window = UIWindow(frame: UIScreen.mainScreen().bounds)
         // Override point for customization after application launch.
         HomeVC=HomeViewController()
-        navigation=UINavigationController(rootViewController:HomeVC)
+        navigation=UINavigationController(rootViewController:HomeVC);
         
         self.window!.backgroundColor = UIColor.clearColor()
         self.window!.makeKeyAndVisible()
