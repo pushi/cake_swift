@@ -11,6 +11,40 @@
 		59BF4B951946EBEA009F2CDE /* cake_swift.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 59BF4B931946EBEA009F2CDE /* cake_swift.xcdatamodeld */; };
 		59BF4B971946EBEA009F2CDE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4B961946EBEA009F2CDE /* Images.xcassets */; };
 		59BF4BA31946EBEA009F2CDE /* cake_swiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59BF4BA21946EBEA009F2CDE /* cake_swiftTests.swift */; };
+		59BF4BAD1946EC33009F2CDE /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59BF4BAC1946EC33009F2CDE /* HomeViewController.swift */; };
+		59BF4BD11946EE8D009F2CDE /* 9.2.json in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BAF1946EE8D009F2CDE /* 9.2.json */; };
+		59BF4BD21946EE8D009F2CDE /* bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BB01946EE8D009F2CDE /* bg.jpg */; };
+		59BF4BD31946EE8D009F2CDE /* cakedetailbg.png in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BB11946EE8D009F2CDE /* cakedetailbg.png */; };
+		59BF4BD41946EE8D009F2CDE /* cakedetailbg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BB21946EE8D009F2CDE /* cakedetailbg@2x.png */; };
+		59BF4BD51946EE8D009F2CDE /* 卡仕达起司.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BB41946EE8D009F2CDE /* 卡仕达起司.jpg */; };
+		59BF4BD61946EE8D009F2CDE /* 天使的帽子.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BB51946EE8D009F2CDE /* 天使的帽子.jpg */; };
+		59BF4BD71946EE8D009F2CDE /* 巧酥饼干.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BB61946EE8D009F2CDE /* 巧酥饼干.jpg */; };
+		59BF4BD81946EE8D009F2CDE /* 恶魔的帽子.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BB71946EE8D009F2CDE /* 恶魔的帽子.jpg */; };
+		59BF4BD91946EE8D009F2CDE /* 手工鲜奶油布丁.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BB81946EE8D009F2CDE /* 手工鲜奶油布丁.jpg */; };
+		59BF4BDA1946EE8D009F2CDE /* 爆浆蛋糕.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BB91946EE8D009F2CDE /* 爆浆蛋糕.jpg */; };
+		59BF4BDB1946EE8D009F2CDE /* 盆栽蛋糕.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BBA1946EE8D009F2CDE /* 盆栽蛋糕.jpg */; };
+		59BF4BDC1946EE8D009F2CDE /* 红豆起司.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BBB1946EE8D009F2CDE /* 红豆起司.jpg */; };
+		59BF4BDD1946EE8D009F2CDE /* 蛋糕卷.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BBC1946EE8D009F2CDE /* 蛋糕卷.jpg */; };
+		59BF4BDE1946EE8D009F2CDE /* 起司蛋糕.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BBD1946EE8D009F2CDE /* 起司蛋糕.jpg */; };
+		59BF4BDF1946EE8D009F2CDE /* 起思金砖.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BBE1946EE8D009F2CDE /* 起思金砖.jpg */; };
+		59BF4BE01946EE8D009F2CDE /* cellbg.png in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BBF1946EE8D009F2CDE /* cellbg.png */; };
+		59BF4BE11946EE8D009F2CDE /* cellbg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BC01946EE8D009F2CDE /* cellbg@2x.png */; };
+		59BF4BE21946EE8D009F2CDE /* DingDingziti.otf in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BC11946EE8D009F2CDE /* DingDingziti.otf */; };
+		59BF4BE31946EE8D009F2CDE /* flowerbg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BC21946EE8D009F2CDE /* flowerbg.jpg */; };
+		59BF4BE41946EE8D009F2CDE /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BC31946EE8D009F2CDE /* icon.png */; };
+		59BF4BE51946EE8D009F2CDE /* launch.png in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BC41946EE8D009F2CDE /* launch.png */; };
+		59BF4BE61946EE8D009F2CDE /* launch@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BC51946EE8D009F2CDE /* launch@2x.png */; };
+		59BF4BE71946EE8D009F2CDE /* launchR4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BC61946EE8D009F2CDE /* launchR4@2x.png */; };
+		59BF4BE81946EE8D009F2CDE /* line.png in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BC71946EE8D009F2CDE /* line.png */; };
+		59BF4BE91946EE8D009F2CDE /* menubackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BC81946EE8D009F2CDE /* menubackground.png */; };
+		59BF4BEA1946EE8D009F2CDE /* show1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BC91946EE8D009F2CDE /* show1.jpg */; };
+		59BF4BEB1946EE8D009F2CDE /* tableviewbgxuhua.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BCA1946EE8D009F2CDE /* tableviewbgxuhua.jpg */; };
+		59BF4BEC1946EE8D009F2CDE /* 启动界面底图.png in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BCB1946EE8D009F2CDE /* 启动界面底图.png */; };
+		59BF4BED1946EE8D009F2CDE /* 未标题-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BCC1946EE8D009F2CDE /* 未标题-1.png */; };
+		59BF4BEE1946EE8D009F2CDE /* 标题.png in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BCD1946EE8D009F2CDE /* 标题.png */; };
+		59BF4BEF1946EE8D009F2CDE /* 标题@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BCE1946EE8D009F2CDE /* 标题@2x.png */; };
+		59BF4BF01946EE8D009F2CDE /* 透明背景.png in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BCF1946EE8D009F2CDE /* 透明背景.png */; };
+		59BF4BF11946EE8D009F2CDE /* 透明背景@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 59BF4BD01946EE8D009F2CDE /* 透明背景@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,6 +66,40 @@
 		59BF4B9C1946EBEA009F2CDE /* cake_swiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cake_swiftTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		59BF4BA11946EBEA009F2CDE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		59BF4BA21946EBEA009F2CDE /* cake_swiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cake_swiftTests.swift; sourceTree = "<group>"; };
+		59BF4BAC1946EC33009F2CDE /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		59BF4BAF1946EE8D009F2CDE /* 9.2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 9.2.json; sourceTree = "<group>"; };
+		59BF4BB01946EE8D009F2CDE /* bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bg.jpg; sourceTree = "<group>"; };
+		59BF4BB11946EE8D009F2CDE /* cakedetailbg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cakedetailbg.png; sourceTree = "<group>"; };
+		59BF4BB21946EE8D009F2CDE /* cakedetailbg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cakedetailbg@2x.png"; sourceTree = "<group>"; };
+		59BF4BB41946EE8D009F2CDE /* 卡仕达起司.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "卡仕达起司.jpg"; sourceTree = "<group>"; };
+		59BF4BB51946EE8D009F2CDE /* 天使的帽子.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "天使的帽子.jpg"; sourceTree = "<group>"; };
+		59BF4BB61946EE8D009F2CDE /* 巧酥饼干.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "巧酥饼干.jpg"; sourceTree = "<group>"; };
+		59BF4BB71946EE8D009F2CDE /* 恶魔的帽子.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "恶魔的帽子.jpg"; sourceTree = "<group>"; };
+		59BF4BB81946EE8D009F2CDE /* 手工鲜奶油布丁.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "手工鲜奶油布丁.jpg"; sourceTree = "<group>"; };
+		59BF4BB91946EE8D009F2CDE /* 爆浆蛋糕.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "爆浆蛋糕.jpg"; sourceTree = "<group>"; };
+		59BF4BBA1946EE8D009F2CDE /* 盆栽蛋糕.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "盆栽蛋糕.jpg"; sourceTree = "<group>"; };
+		59BF4BBB1946EE8D009F2CDE /* 红豆起司.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "红豆起司.jpg"; sourceTree = "<group>"; };
+		59BF4BBC1946EE8D009F2CDE /* 蛋糕卷.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "蛋糕卷.jpg"; sourceTree = "<group>"; };
+		59BF4BBD1946EE8D009F2CDE /* 起司蛋糕.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "起司蛋糕.jpg"; sourceTree = "<group>"; };
+		59BF4BBE1946EE8D009F2CDE /* 起思金砖.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "起思金砖.jpg"; sourceTree = "<group>"; };
+		59BF4BBF1946EE8D009F2CDE /* cellbg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cellbg.png; sourceTree = "<group>"; };
+		59BF4BC01946EE8D009F2CDE /* cellbg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cellbg@2x.png"; sourceTree = "<group>"; };
+		59BF4BC11946EE8D009F2CDE /* DingDingziti.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = DingDingziti.otf; sourceTree = "<group>"; };
+		59BF4BC21946EE8D009F2CDE /* flowerbg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = flowerbg.jpg; sourceTree = "<group>"; };
+		59BF4BC31946EE8D009F2CDE /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		59BF4BC41946EE8D009F2CDE /* launch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = launch.png; sourceTree = "<group>"; };
+		59BF4BC51946EE8D009F2CDE /* launch@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "launch@2x.png"; sourceTree = "<group>"; };
+		59BF4BC61946EE8D009F2CDE /* launchR4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "launchR4@2x.png"; sourceTree = "<group>"; };
+		59BF4BC71946EE8D009F2CDE /* line.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = line.png; sourceTree = "<group>"; };
+		59BF4BC81946EE8D009F2CDE /* menubackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menubackground.png; sourceTree = "<group>"; };
+		59BF4BC91946EE8D009F2CDE /* show1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = show1.jpg; sourceTree = "<group>"; };
+		59BF4BCA1946EE8D009F2CDE /* tableviewbgxuhua.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tableviewbgxuhua.jpg; sourceTree = "<group>"; };
+		59BF4BCB1946EE8D009F2CDE /* 启动界面底图.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "启动界面底图.png"; sourceTree = "<group>"; };
+		59BF4BCC1946EE8D009F2CDE /* 未标题-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "未标题-1.png"; sourceTree = "<group>"; };
+		59BF4BCD1946EE8D009F2CDE /* 标题.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "标题.png"; sourceTree = "<group>"; };
+		59BF4BCE1946EE8D009F2CDE /* 标题@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "标题@2x.png"; sourceTree = "<group>"; };
+		59BF4BCF1946EE8D009F2CDE /* 透明背景.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "透明背景.png"; sourceTree = "<group>"; };
+		59BF4BD01946EE8D009F2CDE /* 透明背景@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "透明背景@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,10 +141,12 @@
 		59BF4B8E1946EBEA009F2CDE /* cake_swift */ = {
 			isa = PBXGroup;
 			children = (
+				59BF4BAE1946EE8D009F2CDE /* Resource */,
 				59BF4B911946EBEA009F2CDE /* AppDelegate.swift */,
 				59BF4B961946EBEA009F2CDE /* Images.xcassets */,
 				59BF4B931946EBEA009F2CDE /* cake_swift.xcdatamodeld */,
 				59BF4B8F1946EBEA009F2CDE /* Supporting Files */,
+				59BF4BAC1946EC33009F2CDE /* HomeViewController.swift */,
 			);
 			path = cake_swift;
 			sourceTree = "<group>";
@@ -104,6 +174,54 @@
 				59BF4BA11946EBEA009F2CDE /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		59BF4BAE1946EE8D009F2CDE /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				59BF4BAF1946EE8D009F2CDE /* 9.2.json */,
+				59BF4BB01946EE8D009F2CDE /* bg.jpg */,
+				59BF4BB11946EE8D009F2CDE /* cakedetailbg.png */,
+				59BF4BB21946EE8D009F2CDE /* cakedetailbg@2x.png */,
+				59BF4BB31946EE8D009F2CDE /* cakeimg */,
+				59BF4BBF1946EE8D009F2CDE /* cellbg.png */,
+				59BF4BC01946EE8D009F2CDE /* cellbg@2x.png */,
+				59BF4BC11946EE8D009F2CDE /* DingDingziti.otf */,
+				59BF4BC21946EE8D009F2CDE /* flowerbg.jpg */,
+				59BF4BC31946EE8D009F2CDE /* icon.png */,
+				59BF4BC41946EE8D009F2CDE /* launch.png */,
+				59BF4BC51946EE8D009F2CDE /* launch@2x.png */,
+				59BF4BC61946EE8D009F2CDE /* launchR4@2x.png */,
+				59BF4BC71946EE8D009F2CDE /* line.png */,
+				59BF4BC81946EE8D009F2CDE /* menubackground.png */,
+				59BF4BC91946EE8D009F2CDE /* show1.jpg */,
+				59BF4BCA1946EE8D009F2CDE /* tableviewbgxuhua.jpg */,
+				59BF4BCB1946EE8D009F2CDE /* 启动界面底图.png */,
+				59BF4BCC1946EE8D009F2CDE /* 未标题-1.png */,
+				59BF4BCD1946EE8D009F2CDE /* 标题.png */,
+				59BF4BCE1946EE8D009F2CDE /* 标题@2x.png */,
+				59BF4BCF1946EE8D009F2CDE /* 透明背景.png */,
+				59BF4BD01946EE8D009F2CDE /* 透明背景@2x.png */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		59BF4BB31946EE8D009F2CDE /* cakeimg */ = {
+			isa = PBXGroup;
+			children = (
+				59BF4BB41946EE8D009F2CDE /* 卡仕达起司.jpg */,
+				59BF4BB51946EE8D009F2CDE /* 天使的帽子.jpg */,
+				59BF4BB61946EE8D009F2CDE /* 巧酥饼干.jpg */,
+				59BF4BB71946EE8D009F2CDE /* 恶魔的帽子.jpg */,
+				59BF4BB81946EE8D009F2CDE /* 手工鲜奶油布丁.jpg */,
+				59BF4BB91946EE8D009F2CDE /* 爆浆蛋糕.jpg */,
+				59BF4BBA1946EE8D009F2CDE /* 盆栽蛋糕.jpg */,
+				59BF4BBB1946EE8D009F2CDE /* 红豆起司.jpg */,
+				59BF4BBC1946EE8D009F2CDE /* 蛋糕卷.jpg */,
+				59BF4BBD1946EE8D009F2CDE /* 起司蛋糕.jpg */,
+				59BF4BBE1946EE8D009F2CDE /* 起思金砖.jpg */,
+			);
+			path = cakeimg;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -185,7 +303,40 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				59BF4BDA1946EE8D009F2CDE /* 爆浆蛋糕.jpg in Resources */,
+				59BF4BE21946EE8D009F2CDE /* DingDingziti.otf in Resources */,
+				59BF4BE61946EE8D009F2CDE /* launch@2x.png in Resources */,
+				59BF4BDE1946EE8D009F2CDE /* 起司蛋糕.jpg in Resources */,
+				59BF4BDF1946EE8D009F2CDE /* 起思金砖.jpg in Resources */,
+				59BF4BEF1946EE8D009F2CDE /* 标题@2x.png in Resources */,
+				59BF4BDD1946EE8D009F2CDE /* 蛋糕卷.jpg in Resources */,
+				59BF4BD61946EE8D009F2CDE /* 天使的帽子.jpg in Resources */,
+				59BF4BE51946EE8D009F2CDE /* launch.png in Resources */,
+				59BF4BD71946EE8D009F2CDE /* 巧酥饼干.jpg in Resources */,
+				59BF4BE31946EE8D009F2CDE /* flowerbg.jpg in Resources */,
+				59BF4BE41946EE8D009F2CDE /* icon.png in Resources */,
 				59BF4B971946EBEA009F2CDE /* Images.xcassets in Resources */,
+				59BF4BE91946EE8D009F2CDE /* menubackground.png in Resources */,
+				59BF4BE01946EE8D009F2CDE /* cellbg.png in Resources */,
+				59BF4BD21946EE8D009F2CDE /* bg.jpg in Resources */,
+				59BF4BED1946EE8D009F2CDE /* 未标题-1.png in Resources */,
+				59BF4BF01946EE8D009F2CDE /* 透明背景.png in Resources */,
+				59BF4BD41946EE8D009F2CDE /* cakedetailbg@2x.png in Resources */,
+				59BF4BD91946EE8D009F2CDE /* 手工鲜奶油布丁.jpg in Resources */,
+				59BF4BE81946EE8D009F2CDE /* line.png in Resources */,
+				59BF4BE11946EE8D009F2CDE /* cellbg@2x.png in Resources */,
+				59BF4BEA1946EE8D009F2CDE /* show1.jpg in Resources */,
+				59BF4BDC1946EE8D009F2CDE /* 红豆起司.jpg in Resources */,
+				59BF4BD51946EE8D009F2CDE /* 卡仕达起司.jpg in Resources */,
+				59BF4BD11946EE8D009F2CDE /* 9.2.json in Resources */,
+				59BF4BEE1946EE8D009F2CDE /* 标题.png in Resources */,
+				59BF4BD81946EE8D009F2CDE /* 恶魔的帽子.jpg in Resources */,
+				59BF4BE71946EE8D009F2CDE /* launchR4@2x.png in Resources */,
+				59BF4BEC1946EE8D009F2CDE /* 启动界面底图.png in Resources */,
+				59BF4BF11946EE8D009F2CDE /* 透明背景@2x.png in Resources */,
+				59BF4BDB1946EE8D009F2CDE /* 盆栽蛋糕.jpg in Resources */,
+				59BF4BEB1946EE8D009F2CDE /* tableviewbgxuhua.jpg in Resources */,
+				59BF4BD31946EE8D009F2CDE /* cakedetailbg.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -205,6 +356,7 @@
 			files = (
 				59BF4B921946EBEA009F2CDE /* AppDelegate.swift in Sources */,
 				59BF4B951946EBEA009F2CDE /* cake_swift.xcdatamodeld in Sources */,
+				59BF4BAD1946EC33009F2CDE /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
