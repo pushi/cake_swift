@@ -15,13 +15,21 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
     var navigation:UINavigationController?
     var HomeVC:HomeViewController?
-
+    var titleLabel:UILabel?
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: NSDictionary?) -> Bool {
         self.window = UIWindow(frame: UIScreen.mainScreen().bounds)
         // Override point for customization after application launch.
         HomeVC=HomeViewController()
         navigation=UINavigationController(rootViewController:HomeVC);
-        
+        navigation!.navigationBar.setBackgroundImage( UIImage(named:"标题"), forBarMetrics: UIBarMetrics.Default)
+        titleLabel=UILabel(frame:CGRectMake(50,0,220,44))
+        titleLabel!.backgroundColor=UIColor.clearColor()
+        titleLabel!.textColor=UIColor.whiteColor()
+        titleLabel!.font=UIFont.boldSystemFontOfSize(20.0)
+        titleLabel!.text="CakeDream"
+        titleLabel!.textAlignment = .Center
+        navigation!.navigationBar.addSubview(titleLabel)
+        self.window!.rootViewController=navigation
         self.window!.backgroundColor = UIColor.clearColor()
         self.window!.makeKeyAndVisible()
         return true
